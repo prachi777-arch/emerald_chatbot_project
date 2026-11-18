@@ -82,6 +82,10 @@ Never commit API keys or other sensitive credentials to GitHub.
 
 [Launch Emerald AI](https://emeraldchatbotproject-n9fcnrhyetrsfmj4gyxpsy.streamlit.app/)
 
+## 📸 Preview
+
+![Emerald AI Screenshot](images/emerald_ai.png)
+
 ## 👩‍💻 Project
 
 **Emerald AI** is a beginner-friendly AI development project created to explore conversational AI, API integration and web application deployment.
