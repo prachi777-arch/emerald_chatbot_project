@@ -76,10 +76,12 @@ OPENROUTER_API_KEY = "your_api_key"
 
 Never commit API keys or other sensitive credentials to GitHub.
 
-## 🌐 Live Demo
+
 
 ## 🌐 Live Demo
+
 [Launch Emerald AI](https://emeraldchatbotproject-n9fcnrhyetrsfmj4gyxpsy.streamlit.app/)
+
 ## 👩‍💻 Project
 
 **Emerald AI** is a beginner-friendly AI development project created to explore conversational AI, API integration and web application deployment.
